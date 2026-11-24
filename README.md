@@ -121,7 +121,8 @@ A sample business dataset representing the relationship between **Advertising Ex
     Predicted Sales for Advertising Budget 65 Lakhs: 51.24496788008565
     /usr/local/lib/python3.13/dist-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
       warnings.warn(
-      <img width="443" height="362" alt="Screenshot 2026-11-24 072220" src="https://github.com/user-attachments/assets/ef65d4a0-129a-443c-b54d-72f2e8c67172" />
+      
+   <img width="447" height="361" alt="Screenshot 2026-11-24 072622" src="https://github.com/user-attachments/assets/4a2e94f5-d8d6-4159-93e1-25a5bdb558c9" />
 
 
 
